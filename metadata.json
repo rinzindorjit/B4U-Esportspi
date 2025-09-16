@@ -1,0 +1,5 @@
+{
+  "name": "B4U Esports - Pi Network Marketplace",
+  "description": "A comprehensive, responsive web platform for B4U Esports that integrates Pi Network as a payment method, allowing users to purchase in-game currencies (UC for PUBG Mobile, Diamonds for Mobile Legends: Bang Bang) using Pi coins.",
+  "requestFramePermissions": []
+}
